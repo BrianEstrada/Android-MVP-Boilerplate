@@ -2,9 +2,9 @@
 
 buildscript {
     ext {
-        KOTLIN_VERSION = '1.2.0'
+        KOTLIN_VERSION = '1.2.10'
         KOTLIN_COROUTINES_VERSION = '0.19.1'
-        SUPPORT_LIBRARY_VERSION = '26.1.0'
+        SUPPORT_LIBRARY_VERSION = '27.0.0'
         DAGGER_VERSION = '2.11'
     }
 

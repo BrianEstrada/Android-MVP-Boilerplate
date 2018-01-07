@@ -8,7 +8,6 @@ import android.support.v4.app.LoaderManager;
 import android.support.v4.content.Loader;
 
 import com.brianestrada.boilerplate.App;
-import com.brianestrada.boilerplate.injection.components.AppComponent;
 import com.brianestrada.boilerplate.loader.PresenterFactory;
 import com.brianestrada.boilerplate.loader.PresenterLoader;
 

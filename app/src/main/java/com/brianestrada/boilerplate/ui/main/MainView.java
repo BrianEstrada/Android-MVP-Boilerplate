@@ -2,8 +2,6 @@ package com.brianestrada.boilerplate.ui.main;
 
 import android.support.annotation.UiThread;
 
-import com.brianestrada.boilerplate.models.User;
-
 import java.util.List;
 
 @UiThread

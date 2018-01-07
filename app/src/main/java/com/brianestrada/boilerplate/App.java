@@ -3,9 +3,7 @@ package com.brianestrada.boilerplate;
 import android.app.Application;
 import android.support.annotation.NonNull;
 
-import com.brianestrada.boilerplate.injection.components.AppComponent;
 import com.brianestrada.boilerplate.injection.components.DaggerAppComponent;
-import com.brianestrada.boilerplate.injection.modules.AppModule;
 import com.brianestrada.boilerplate.injection.modules.SharedPreferencesModule;
 import com.squareup.leakcanary.LeakCanary;
 

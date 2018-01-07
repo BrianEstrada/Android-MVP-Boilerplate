@@ -10,9 +10,7 @@ import android.widget.EditText;
 
 import com.brianestrada.boilerplate.R;
 import com.brianestrada.boilerplate.adapters.UsersAdapter;
-import com.brianestrada.boilerplate.injection.components.AppComponent;
 import com.brianestrada.boilerplate.loader.PresenterFactory;
-import com.brianestrada.boilerplate.models.User;
 import com.brianestrada.boilerplate.ui.BaseActivity;
 import com.brianestrada.boilerplate.ui.main.injection.DaggerMainViewComponent;
 import com.brianestrada.boilerplate.ui.main.injection.MainViewModule;

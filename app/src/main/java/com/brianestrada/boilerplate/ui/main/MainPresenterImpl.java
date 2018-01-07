@@ -1,7 +1,6 @@
 package com.brianestrada.boilerplate.ui.main;
 
 import com.brianestrada.boilerplate.data.DataManager;
-import com.brianestrada.boilerplate.models.User;
 import com.brianestrada.boilerplate.ui.BasePresenterImpl;
 
 import java.util.List;

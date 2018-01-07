@@ -1,8 +1,6 @@
 package com.brianestrada.boilerplate.data;
 
 
-import com.brianestrada.boilerplate.models.User;
-
 import java.util.List;
 
 public interface DataManager {

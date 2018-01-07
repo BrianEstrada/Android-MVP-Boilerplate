@@ -3,7 +3,6 @@ package com.brianestrada.boilerplate.data;
 
 import android.content.SharedPreferences;
 
-import com.brianestrada.boilerplate.models.User;
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
 
