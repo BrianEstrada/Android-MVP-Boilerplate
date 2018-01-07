@@ -7,7 +7,7 @@
     tools:context="com.brianestrada.boilerplate.ui.main.MainActivity">
 
     <android.support.v7.widget.RecyclerView
-        android:id="@+id/recyclerView"
+        android:id="@+id/mainRecyclerView"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:paddingBottom="56dp" />
@@ -26,7 +26,7 @@
             android:layout_margin="@dimen/material_baseline_grid_1x">
 
             <EditText
-                android:id="@+id/etUsername"
+                android:id="@+id/mainEtUsername"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:hint="Username"

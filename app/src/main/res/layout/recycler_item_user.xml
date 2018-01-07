@@ -6,7 +6,7 @@
     android:orientation="vertical">
 
     <TextView
-        android:id="@+id/tvUsername"
+        android:id="@+id/itemUserTvUsername"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:padding="@dimen/material_baseline_grid_1.5x"
